@@ -1,0 +1,1 @@
+First attempt in making a Rock, Paper, Scissors game from The Odin Project using Javascript fundamentals. Currently it is not styled and will only play on the browser Console.
